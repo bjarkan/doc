@@ -22,7 +22,7 @@ You can also use a desktop client such as :
 - [Pidgin](http://pidgin.im/) (multiplatform), 
 - [Gajim](http://gajim.org/) (Linux, Windows),
 - [Dino](https://dino.im) (Linux),
-- [Thunderbird](https://www.thundebird.net/) (multiplatform), 
+- [Thunderbird](https://www.thunderbird.net/) (multiplatform), 
 - [Jitsi](http://jitsi.org/) (multiplatform) 
 - [Adium](https://adium.im/) (Mac OS).
 
